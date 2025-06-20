@@ -1,6 +1,6 @@
 # 🎨 Shadexr – AI Color Palette Generator
 
-![Shadexr Preview](https://res.cloudinary.com/diboqh2zz/image/upload/v1750446030/home_ed1fex.png)
+![Shadexr Preview](https://res.cloudinary.com/rahul9307/image/upload/v1750462840/Screenshot_2025-06-21_050711_bsence.png)
 
 **Shadexr** is an AI-powered web app that helps designers, developers, and creators generate beautiful, accessible, and harmonious color palettes based on project-specific inputs.
 
@@ -34,4 +34,6 @@
 
 ## 📸 Screenshots
 
-![Generate Page](https://res.cloudinary.com/diboqh2zz/image/upload/v1750445977/generate_hzpo1f.png)
+![Generate Page](https://res.cloudinary.com/rahul9307/image/upload/v1750462839/Screenshot_2025-06-21_050825_g9vmni.png)
+
+![Generate Page](https://res.cloudinary.com/rahul9307/image/upload/v1750462839/Screenshot_2025-06-21_050923_a9igle.png)
